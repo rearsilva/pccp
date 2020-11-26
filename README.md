@@ -8,4 +8,4 @@ O maior diferencial desta planilha é a sacada de permitir o lançamento das hor
 
 # Licença
 
-Esta planilha pode ser utilizada por qualquer pessoa, física ou jurídica, de forma gratuita.
+Esta planilha pode ser utilizada por qualquer pessoa, física ou jurídica, de forma gratuita, desde que seja mantido os créditos de desenvolvimento em meu nome.
